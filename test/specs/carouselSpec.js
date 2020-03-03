@@ -13,19 +13,23 @@ describe('carousel images', () => {
     await carousel.waitForDisplayed();
 
     let ele = await $(FIRST_ITEM_SELECTOR);
-    ele.click();
+    await ele.click();
+    await browser.pause(1000);
     await assertElementLooks(browser, carousel.selector, 'First Carousel Image');
 
     ele = await $(SECOND_ITEM_SELECTOR);
-    ele.click();
+    await ele.click();
+    await browser.pause(1000);
     await assertElementLooks(browser, carousel.selector, 'Second Carousel Image');
 
     ele = await $(THIRD_ITEM_SELECTOR);
-    ele.click();
+    await ele.click();
+    await browser.pause(1000);
     await assertElementLooks(browser, carousel.selector, 'Third Carousel Image');
 
     ele = await $(FOURTH_ITEM_SELECTOR);
-    ele.click();
+    await ele.click();
+    await browser.pause(1000);
     await assertElementLooks(browser, carousel.selector, 'Fourth Carousel Image');
   })
 });
