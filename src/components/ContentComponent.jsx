@@ -14,7 +14,7 @@ class ContentComponent extends React.Component {
         style={{
           padding: 24,
           margin: 0,
-          minHeight: 280,
+          minHeight: 1250,
         }}
       >
         <Typography>
