@@ -21,30 +21,29 @@ class ContentComponent extends React.Component {
           <Title>Introduction</Title>
           <CarouselComponent/>
           <Paragraph>
-            Now that there is the Tec-9, a crappy spray gun from South Miami.
-            This gun is advertised as the most popular gun in American crime.
-            Do you believe that shit? It actually says that in the little book
-            that comes with it: the most popular gun in American crime. Like
-            they're actually proud of that shit.
-          </Paragraph>
-          <Paragraph>The path of the righteous man is beset on all sides by the
-            iniquities of the selfish and the tyranny of evil men. Blessed is he
-            who, in the name of charity and good will, shepherds the weak through
-            the valley of darkness, for he is truly his brother's keeper and the
-            finder of lost children. And I will strike down upon thee with great
-            vengeance and furious anger those who would attempt to poison and
-            destroy My brothers. And you will know My name is the Lord when I
-            lay My vengeance upon thee.
+            Macs are too expensive, apparently Retina is just a made-up
+            Apple name, which no other operating system is better than
+            Windows so as to why shouldn’t the Microsoft store look like
+            the Apple store while the screen on Surface is as good as the
+            iPad.
           </Paragraph>
           <Paragraph>
-            You think water moves fast? You should see ice. It moves like it
-            has a mind. Like it knows it killed the world once and got a taste
-            for murder. After the avalanche, it took us a week to climb out.
-            Now, I don't know exactly when we turned on each other, but I know
-            that seven of us survived the slide... and only five made it out.
-            Now we took an oath, that I'm breaking now. We said we'd say it was
-            the snow that killed the other two, but it wasn't. Nature is lethal
-            but it doesn't hold a candle to man.
+            Windows Phone is beautiful then the same power for half the
+            money overall Apple is closed and ossified, approaching petrified,
+            when the iPad is too expensive, for example Surface is the
+            ultimate tablet, next Apple is so boring.
+          </Paragraph>
+          <Paragraph>
+            The iPhone is boring so that you can’t upgrade a Mac in contrast
+            the iPhone is too expensive, while people will start developing
+            for the new Windows soon, whose Apple fanboys are so smug, whereas
+            you can’t get Office on an iPad.
+          </Paragraph>
+          <Paragraph>
+            Apple won’t let you do anything with their computers, besides my
+            Ultrabook looks like a Mac except it is cheaper moreover Windows
+            Phone 8 is much better than Windows Phone 7, eventually enterprise
+            will always need Windows, thus you can’t play games on a Mac.
           </Paragraph>
           <Title level={2}>Piracy</Title>
           <Paragraph>
