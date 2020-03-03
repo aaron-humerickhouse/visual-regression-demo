@@ -12,7 +12,6 @@ describe('carousel images', () => {
     const carousel = await $('#carousel-component');
     await carousel.waitForDisplayed();
 
-
     let ele = await $(FIRST_ITEM_SELECTOR);
     ele.click();
     await assertElementLooks(browser, carousel.selector, 'First Carousel Image');
