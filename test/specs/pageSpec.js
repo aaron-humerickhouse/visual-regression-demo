@@ -6,6 +6,14 @@ describe('page', () => {
     const page = await $('body');
     await page.waitForDisplayed();
 
+    await browser.execute(() => {
+      const elesToHide = document.querySelectorAll('#content-component div.ant-typography');
+      elesToHide.forEach(function (ele, i) {
+        // perform some operation on a value;
+        ele.style.visibility = 'hidden';
+      });
+    });
+
     await assertElementLooks(browser, page.selector, 'Page');
   })
 })
