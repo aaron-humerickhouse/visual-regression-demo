@@ -1,7 +1,7 @@
 import React from 'react';
 import { Carousel } from 'antd';
 import one from '../../images/1.jpg';
-import two from '../../images/2.jpg';
+import two from '../../images/2_replace.jpg';
 import three from '../../images/3.jpg';
 import four from '../../images/4.jpg';
 
