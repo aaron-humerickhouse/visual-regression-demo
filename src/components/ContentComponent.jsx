@@ -14,36 +14,39 @@ class ContentComponent extends React.Component {
         style={{
           padding: 24,
           margin: 0,
-          minHeight: 280,
+          minHeight: 1250,
         }}
       >
         <Typography>
           <Title>Introduction</Title>
           <CarouselComponent/>
           <Paragraph>
-            Macs are too expensive, apparently Retina is just a made-up
-            Apple name, which no other operating system is better than
-            Windows so as to why shouldn’t the Microsoft store look like
-            the Apple store while the screen on Surface is as good as the
-            iPad.
+            Movements activate, empathetic scale and impact or theory of
+            change collective impact data collective impact a. Then strategize,
+            correlation think tank innovate, preliminary thinking B-corp
+            transparent vibrant segmentation. The resistance external partners,
+            dynamic change-makers thought leadership inspiring improve the
+            world venture philanthropy equal opportunity leverage peaceful
+            social enterprise.
           </Paragraph>
           <Paragraph>
-            Windows Phone is beautiful then the same power for half the
-            money overall Apple is closed and ossified, approaching petrified,
-            when the iPad is too expensive, for example Surface is the
-            ultimate tablet, next Apple is so boring.
+            Strengthening infrastructure resilient efficient inspire collective
+            impact. We must stand up compelling emerging effective do-gooder;
+            silo, effective altruism then external partners families when
+            progress. Change-makers, philanthropy activate ecosystem segmentation
+            communities collective impact mass incarceration, social return
+            on investment collective impact synergy.
           </Paragraph>
           <Paragraph>
-            The iPhone is boring so that you can’t upgrade a Mac in contrast
-            the iPhone is too expensive, while people will start developing
-            for the new Windows soon, whose Apple fanboys are so smug, whereas
-            you can’t get Office on an iPad.
-          </Paragraph>
-          <Paragraph>
-            Apple won’t let you do anything with their computers, besides my
-            Ultrabook looks like a Mac except it is cheaper moreover Windows
-            Phone 8 is much better than Windows Phone 7, eventually enterprise
-            will always need Windows, thus you can’t play games on a Mac.
+            Blended value storytelling; engaging venture philanthropy to a
+            overcome injustice. Preliminary thinking NGO; philanthropy inspire
+            design thinking when equal opportunity. Framework uplift transparent
+            justice disrupt, theory of change scale and impact parse scale and
+            impact theory of change bandwidth thought leadership scale and impact.
+            Circular human-centered; human-centered strategize; capacity building
+            scalable academic living a fully ethical life philanthropy. Capacity
+            building parse social impact; humanitarian mass incarceration deep
+            dive. When LGBTQ+ when issue outcomes, outcomes disrupt.
           </Paragraph>
           <Title level={2}>Piracy</Title>
           <Paragraph>
@@ -52,7 +55,6 @@ class ContentComponent extends React.Component {
             schooner driver Blimey rigging. Swing the lead pinnace capstan gibbet
             rutters code of conduct Letter of Marque bilge topgallant draught.
           </Paragraph>
-
           <Paragraph>
             <ul>
               <li>

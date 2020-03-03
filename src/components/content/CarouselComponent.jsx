@@ -18,7 +18,7 @@ class CarouselComponent extends React.Component {
       <div id={'carousel-component'}>
         <Carousel
           afterChange={this.onChange}
-          autoplay={true}
+          autoplay={false}
         >
           <div>
             <img src={one}
